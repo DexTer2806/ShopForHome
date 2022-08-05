@@ -92,9 +92,9 @@ docker-compose up --build
 
 Modules:
 1.Customer login
-	- Create Customer from sign up page
+- Create Customer from sign up page
 2.Admin login
-	- Default Admin Login
-		User Name - admin@eshop.com
-		Password - Admin
+- Default Admin Login
+	User Name - admin@eshop.com
+	Password - Admin
 
